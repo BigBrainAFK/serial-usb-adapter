@@ -675,8 +675,6 @@ F 3 "" H 3350 3100 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 Wire Wire Line
-	4000 3600 4100 3600
-Wire Wire Line
 	4000 3500 3750 3500
 Connection ~ 3750 3500
 $Comp
